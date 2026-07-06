@@ -1,3 +1,7 @@
+<img width="1652" height="1122" alt="Image 06-07-26 at 7 45 PM" src="https://github.com/user-attachments/assets/134601c8-b107-4b32-b147-6503be3d5eac" />
+<img width="1704" height="1370" alt="Image 06-07-26 at 7 46 PM" src="https://github.com/user-attachments/assets/767c2a09-436a-48c0-b9ee-b58b976c7b9a" />
+<img width="1676" height="1192" alt="Image 06-07-26 at 7 48 PM" src="https://github.com/user-attachments/assets/019b310d-20b9-47cc-8569-c5e0d0891afd" />
+<img width="1684" height="1530" alt="Image 06-07-26 at 7 50 PM" src="https://github.com/user-attachments/assets/91766804-d5ab-4bda-a906-28ae0d558d86" />
 # Day36
 Explore Your Thinking Patterns
 [cognitive-pattern-explorer.html](https://github.com/user-attachments/files/29705601/cognitive-pattern-explorer.html)
